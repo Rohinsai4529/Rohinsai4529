@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Rohin Sai
 
-<!--
-**Rohinsai4529/Rohinsai4529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Full Stack Developer
+🌱 Currently learning DSA & System Design
 
-Here are some ideas to get you started:
+## Tech Stack
+Java | JavaScript | React | Node.js | Express | MongoDB | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🚀 Smart Milk Adulteration Detection System
+🚀 Airbnb Clone
+🚀 Dockify
+
+## Connect with me
+LinkedIn
+GitHub
+Email
